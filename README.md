@@ -18,5 +18,5 @@ Inispired from Disney movies.
 
 ### Acknowledgments
 - Udacity 
-_ Disney 
+- Disney 
 
