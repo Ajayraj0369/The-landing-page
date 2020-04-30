@@ -11,7 +11,7 @@ This is a basic landing page that uses Javascript to create a NavBar dynamically
 This project can be viewed with the help of any browser. 
 
 ### Motivation
-Inispired from Disney movies. 
+The chosen theme of this landing page of Disney Movies. 
 
 ### Authors
 - Priya Elza Jolly
